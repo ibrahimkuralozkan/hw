@@ -39,7 +39,7 @@ SeleniumEasy Checkbox Verification –Section 2 1.Open Chrome browser
     @AfterClass
     public void tearDown() throws InterruptedException {
         Thread.sleep(2000);
-       // driver.close();
+        driver.close();
 
     }
 
