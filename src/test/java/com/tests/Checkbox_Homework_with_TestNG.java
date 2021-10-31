@@ -47,7 +47,7 @@ SeleniumEasy Checkbox Verification –Section 2 1.Open Chrome browser
     @Test
     public void test1(){
 
-
+    //deneme
 
 
 
